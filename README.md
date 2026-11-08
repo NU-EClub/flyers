@@ -1,2 +1,5 @@
-# flyers
-E-Club flyer app (built site only; source is in a private repo). Print tracked flyers, log where they go up.
+# E-Club Flyers
+
+The built web app for tracking E-Club flyers, served at https://nu-eclub.github.io/flyers/.
+
+This repo only holds generated files. The source lives in the private `NU-EClub/flyer-tools` repo; don't edit anything here, it's replaced on every publish.
