@@ -4,4 +4,4 @@ The built web app for tracking E-Club flyers, served at https://nu-eclub.github.
 
 This repo only holds generated files. The source lives in the private `NU-EClub/flyer-tools` repo; don't edit anything here, it's replaced on every publish.
 
-Built from flyer-tools commit `50109e4`.
+Built from flyer-tools commit `f26aaa1`.
